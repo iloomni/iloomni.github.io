@@ -1,4 +1,4 @@
 iloomni
 =================
 iloomni.github.io
-iloomni home page.
+My personal projects. ALL opensource.
