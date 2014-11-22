@@ -1,4 +1,4 @@
 iloomni
 =================
 iloomni.github.io
-My personal projects. ALL opensource.
+Como a vela que se consome iluminando.
